@@ -1,0 +1,82 @@
+body {
+    background-color: rgba(205, 188, 255, 1)
+}
+
+h1 {
+    color: purple;
+    font-size: 60px;
+    font-family: Fantasy;
+}
+
+.smaller-scale {
+    width: 400px;
+    height: 400px;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.red-text {
+    color: red;
+}
+
+.purple-text {
+    color: purple;
+}
+
+.grey-text {
+    color: grey;
+}
+
+h2 {
+    color: purple;
+    font-size: 40px;
+    font-family: Fantasy;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    font-family: Fantasy;
+}
+
+li {
+    font-size: 30px;
+    font-family: Fantasy;
+}
+
+.green-text {
+    color: green;
+}
+
+.maroon-text {
+    color: maroon;
+}
+
+.magenta-text {
+    color: magenta;
+}
+
+.brown-text {
+    color: brown;
+}
+
+.picture-size {
+    width: 475px;
+    height: 350px;
+}
+
+.pink-text {
+    color: pink;
+}
+
+.page-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.middle-of-page {
+    width: 500px;
+    margin: 0 auto;
+}
