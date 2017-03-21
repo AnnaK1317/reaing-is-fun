@@ -1,9 +1,9 @@
 body {
-    background-color: rgba(205, 188, 255, 1)
+    background-color: #d9d9d9
 }
 
 h1 {
-    color: purple;
+    color: #660066;
     font-size: 60px;
     font-family: Fantasy;
 }
@@ -30,7 +30,7 @@ h1 {
 }
 
 h2 {
-    color: purple;
+    color: #6E07B3;
     font-size: 40px;
     font-family: Fantasy;
 }
@@ -72,11 +72,14 @@ li {
 }
 
 .page-wrap {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
 }
 
-.middle-of-page {
-    width: 500px;
-    margin: 0 auto;
+.greenish-text {
+    color:#00b33c;
+}
+
+.folk-lore {
+    color:#8C632A;
 }
