@@ -9,8 +9,10 @@ h1 {
 }
 
 .smaller-scale {
-    width: 600px;
-    height: 900px;
+    width: 400px;
+    height: 600px;
+    margin-bottom: 65px;
+    margin-top: 65px;
 }
 
 .blue-text {
@@ -98,4 +100,11 @@ li {
 
 .text-align {
     text-align: center;
+}
+
+.margin {
+    margin-top: 70px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+    font-size: 55px;
 }
